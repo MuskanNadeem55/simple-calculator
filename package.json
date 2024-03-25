@@ -1,6 +1,6 @@
 {
   "name": "@muskan_nadeem/simple-calculator",
-  "version": "1.1.2",
+  "version": "2.1.2",
   "description": "This is cli based calculator",
   "main": "index.js",
   "type": "module",
